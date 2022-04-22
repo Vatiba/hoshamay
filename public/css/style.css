@@ -1,0 +1,44 @@
+.bg-green{
+    background-color: #9CBC27;
+}
+
+.text-green{
+    color: #9CBC27 !important;
+}
+
+.main-image{
+    min-height: 700px;
+    background-image: url('img/main_image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+/* .card-image-block-b{
+    border-radius: 15px;
+    height: 300px;
+    background-color: white;
+}
+
+.card-image-block-t{
+    height: 300px;
+    margin-bottom: -25%;
+    border-radius: 15px;
+    background-color: black;
+    width: 40%;
+} */
+
+.h-150px {
+    height: 200px;
+}
+
+.btn-white {
+    color: #9CBC27 !important;
+    background-color: white;
+    border-color: white;
+  }
+
+.swiper-container .swiper-button-prev::after,
+.swiper-container .swiper-button-next::after {
+    color: #9CBC27;
+    font-size: 40px;
+}
